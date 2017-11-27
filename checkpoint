@@ -1,0 +1,2 @@
+model_checkpoint_path: "EasyNet_Trained.ckpt"
+all_model_checkpoint_paths: "EasyNet_Trained.ckpt"
